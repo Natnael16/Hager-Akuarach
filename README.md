@@ -5,10 +5,10 @@ The platform will be used by users to book and pay for their bus tickets online.
 Adoption Strategy:
 
   Pilot program:
-    We will partner with one travel agency to test our system in parallel with their traditional system for one month.
+    We will partner with one travel agency in addis ababa to test our system in parallel with their traditional system for one month. most of our test users are going to be students in Addis Ababa university who are coming from long distance area, we will advertise our product in addis ababa university to kick start.
     
   Next stage:
-    after successful test we will add more agency to our system 
+    after successful test we will add more agency to our system and 
  
 Tech stack
 
